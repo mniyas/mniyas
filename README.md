@@ -8,9 +8,6 @@ Machine Learning Engineer
 * 🧠  I'm learning Graph Neural Network
 * 🤝  I'm open to collaborating on ML Engineering, Computational Chemistry, Data Engineering
 
-<a href="https://www.twitter.com/__niyas__" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/__niyas__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
